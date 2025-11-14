@@ -1,4 +1,4 @@
-# 叹号大帝的个人博客 :link: https://th-dd.github.io/thdd-blog 
+# 叹号大帝的个人博客 :link: https://th-dd.github.io
 ### :page_facing_up: [2](https://th-dd.github.io/thdd-blog/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 15 
